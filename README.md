@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Aswin Raj M 👋  
 
-<!--
-**Aswinn47/aswinn47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | Technology Enthusiast
 
-Here are some ideas to get you started:
+💡 Passionate about AI, Cloud, and DevOps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🔭 Currently working on Web apps & AI projects  
+- 🌱 Learning Data Structures, Machine Learning, Cloud  
+- 💬 Ask me about Python, SQL , HTML
+- 📫 Email: aswinraj1021@gmail.com  
+
+---
+
+## 🛠️ Skills
+
+### Programming  
+- Python, C, JavaScript, SQL  
+
+### Web  
+- HTML, CSS, JavaScript, Flask  
+
+### Tools  
+- Git, GitHub, VS Code  
+
+---
+
+## 📌 Projects
+- Quiz App  
+- URL Shortener  
+- Age Calculator
+- Credit Score Checker
+- GoRide Ride Booking System  
+
+👉 More on my GitHub repositories  
+
+---
+
+## 📊 GitHub Stats
+![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswinn47&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: https://linkedin.com/in/aswinraj21  
+- Portfolio: https://aswinn47.github.io  
+- Email: mailto:aswinraj1021@gmail.com  
