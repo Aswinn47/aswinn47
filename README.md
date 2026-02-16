@@ -38,10 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswinn47&show_icons=true&theme=radical)
-
----
 
 ## 🌐 Connect With Me
 - LinkedIn: https://linkedin.com/in/aswinraj21  
