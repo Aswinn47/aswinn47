@@ -17,7 +17,7 @@
 ## 🛠️ Skills
 
 ### Programming  
-- Python, C, JavaScript, SQL  
+- Python, C, SQL  
 
 ### Web  
 - HTML, CSS, JavaScript, Flask  
