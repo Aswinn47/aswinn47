@@ -20,7 +20,7 @@
 - Python, C, SQL  
 
 ### Web  
-- HTML, CSS, JavaScript, Flask  
+- HTML, CSS, JavaScript
 
 ### Tools  
 - Git, GitHub, VS Code  
