@@ -30,11 +30,10 @@
 ## 📌 Projects
 - Quiz App  
 - URL Shortener  
-- Age Calculator
 - Credit Score Checker
 - GoRide Ride Booking System  
 
-👉 More on my GitHub repositories  
+👉 More on my [GitHub repositories](https://github.com/Aswinn47?tab=repositories)
 
 ---
 
