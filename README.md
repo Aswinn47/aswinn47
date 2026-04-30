@@ -1,4 +1,4 @@
-# Hi, I'm Aswin Raj M 👋  ![Build Status](https://img.shields.io/github/actions/workflow/status/user/repo/main.yml)
+# Hi, I'm Aswin Raj M 👋  
 
 🎓 BCA Student | Technology Enthusiast
 
