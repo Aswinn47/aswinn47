@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 🔭 Currently working on Web apps & AI projects  
-- 🌱 Learning Data Structures, Machine Learning, Cloud  
+- 🌱 Learning Data Structures, Machine Learning, Cloud, DevOps 
 - 💬 Ask me about Python, SQL , HTML
 - 📫 Email: aswinraj1021@gmail.com  
 
@@ -28,9 +28,10 @@
 ---
 
 ## 📌 Projects
+
 - Quiz App  
 - URL Shortener  
-- Credit Score Checker
+- Cloud Cost Platform
 - GoRide Ride Booking System  
 
 👉 More on my [GitHub repositories](https://github.com/Aswinn47?tab=repositories)
